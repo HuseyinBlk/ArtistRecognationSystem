@@ -1,0 +1,2 @@
+Dataset ve spektrogramların linki spektrogram zorunlu değil kendisi oluşturuyor ama işlemesi zaman aldığı için direkt kullanabilirsiniz.
+https://drive.google.com/file/d/1puWGfGA9koTNbf-w59WWzhhgh_B0Hv0r/view?usp=sharing
